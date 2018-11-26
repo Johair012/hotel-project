@@ -1,0 +1,26 @@
+body{
+	margin: 0px;
+	display: block;
+	background: #11DDBE;
+}
+img{width: 100%;/*! height: 134px; */}
+header{}
+.container{
+	width: 100%;
+	box-sizing: border-box;
+	background: #EFEFEF;
+
+}
+.logo{width: 20%;float: left;}
+nav{/*! float: left; *//*! padding: 5px; */}
+nav ul{padding: 0;/*! text-decoration: none; */margin: 0;}
+nav ul li{/*! padding: 0; *//*! text-decoration: none; *//*! margin: 0; */list-style: none;float: right;padding: 10px;display: block;}
+nav ul li a{text-decoration: none;}
+nav ul li a:hover{}
+/*featured-section*/
+.creative-section{}
+.creative-section img{}
+address{background: #7b8d95;text-align: center;height: 249px;padding-top: 88px;margin-top: -10px;margin-top: -28px;}
+.features{width: 35%;margin-left: 110px;/*! background: black; */}
+.img{}
+.points{float: right;width: 75%;margin-top: -97px;margin-right: -143%;/*! margin-left: -106%; */color: blue;}
